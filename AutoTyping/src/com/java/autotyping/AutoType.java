@@ -29,7 +29,7 @@ public class AutoType {
 			Thread.sleep(500);
 			r.keyPress(KeyEvent.VK_SPACE);
 			Thread.sleep(500);
-			r.keyPress(KeyEvent.VK_F);
+			r.keyPress(KeyEvent.VK_A);
 			Thread.sleep(500);
 			r.keyPress(KeyEvent.VK_U);
 			Thread.sleep(500);
