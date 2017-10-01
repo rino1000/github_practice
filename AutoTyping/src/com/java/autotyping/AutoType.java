@@ -31,7 +31,7 @@ public class AutoType {
 			Thread.sleep(500);
 			r.keyPress(KeyEvent.VK_A);
 			Thread.sleep(500);
-			r.keyPress(KeyEvent.VK_U);
+			r.keyPress(KeyEvent.VK_B);
 			Thread.sleep(500);
 			r.keyPress(KeyEvent.VK_Z);
 		} catch (IOException e) {
