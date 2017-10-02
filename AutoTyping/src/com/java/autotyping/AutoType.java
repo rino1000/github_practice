@@ -33,7 +33,7 @@ public class AutoType {
 			Thread.sleep(500);
 			r.keyPress(KeyEvent.VK_B);
 			Thread.sleep(500);
-			r.keyPress(KeyEvent.VK_Z);
+			r.keyPress(KeyEvent.VK_C);
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
